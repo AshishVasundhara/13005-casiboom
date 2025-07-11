@@ -1,0 +1,37 @@
+{
+"skeleton": { "hash": "2kWSBFotRBwTaIQ1ExsoVVl6BDk", "spine": "3.7.91", "width": 540, "height": 540, "images": "./Leaf/", "audio": "E:/D2studio/Jungle" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "light", "parent": "root", "y": 98.62 }
+],
+"slots": [
+	{ "name": "statue", "bone": "root", "attachment": "statue" },
+	{ "name": "light", "bone": "light", "attachment": "light", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"light": {
+			"light": { "scaleX": 10, "scaleY": 10, "width": 54, "height": 54 }
+		},
+		"statue": {
+			"statue": { "y": 144.9, "width": 144, "height": 148 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"light": {
+				"color": [
+					{ "time": 0, "color": "fcdd0b00" },
+					{ "time": 0.6667, "color": "fcdc0b2a" },
+					{ "time": 1.3333, "color": "fcdd0b6f" },
+					{ "time": 2, "color": "fcdc0b2a" },
+					{ "time": 2.6667, "color": "fcdd0b6f" },
+					{ "time": 3.3333, "color": "fcdd0b00" }
+				]
+			}
+		}
+	}
+}
+}

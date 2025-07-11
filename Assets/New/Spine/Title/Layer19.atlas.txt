@@ -1,0 +1,27 @@
+
+Layer19.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 695, 683
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 2
+  size: 342, 331
+  orig: 342, 331
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 335
+  size: 691, 402
+  orig: 691, 402
+  offset: 0, 0
+  index: -1
