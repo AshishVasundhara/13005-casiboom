@@ -154,7 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   analyticsURL: https://sharkscopefun.rodeo/BWD9JO
   mainSceneName: Menu
-  uid: 1752537600
+  uid: 1755820800
   orientation: Portrait
 --- !u!4 &112012106
 Transform:
@@ -322,7 +322,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 345b9a5ddb142478ebe165141240bfdb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: abdb8f61753ac47899a0a9594f938fe6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
